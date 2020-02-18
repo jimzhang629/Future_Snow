@@ -16,7 +16,6 @@
 *.xml
 *.tif
 *.jpeg
-*.jpg
 *.db
 *.nc
 *.hdf
