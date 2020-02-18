@@ -24,7 +24,7 @@ The netcdf and pickle files for "Example Data" and "Table Data" are available at
 If using data, results, or techniques from this paper, please cite the following:
 
 ```
-Ashley, W.S., A. M. Haberlie, and V. A. Gensini, 2020: Reduced frequency and size of late twenty-first-century snowstorms over North America. Nature Climate Change. Under Review.
+Ashley, W.S., A.M. Haberlie, and V.A. Gensini, 2020: Reduced frequency and size of late twenty-first-century snowstorms over North America. Nature Climate Change. Under Review.
 ```
 
 
