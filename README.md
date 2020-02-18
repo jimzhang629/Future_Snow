@@ -1,5 +1,7 @@
 # Future Snow
 
+[![DOI](https://zenodo.org/badge/129580480.svg)](https://zenodo.org/badge/latestdoi/129580480)
+
 Project examining the frequency and intensity of future projections of snowfall in North America
 
 Requirements:
