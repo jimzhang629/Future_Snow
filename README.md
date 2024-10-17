@@ -4,26 +4,26 @@
 
 Project examining the frequency and intensity of future projections of snowfall in North America
 
-Requirements:
+Update 10/11/2024 - Tested on:
 
 <ul>
-  <li>Python 3.7</li>
-  <li>numpy 1.16.4</li>
-  <li>scipy 1.3.2</li>
-  <li>matplotlib 3.0.3</li>
-  <li>scikit-image 0.16.2</li>
-  <li>shapely 1.6.4</li>
-  <li>xarray 0.15.0</li>
-  <li>cartopy 0.17.0</li>
-  <li>pandas 0.24.2</li>
-  <li>geopandas 0.6.1</li>
+  <li>Python 3.12</li>
+  <li>numpy 2.12</li>
+  <li>scipy 1.14.1</li>
+  <li>matplotlib 3.9.2</li>
+  <li>scikit-image 0.24.0</li>
+  <li>shapely 2.0.6</li>
+  <li>xarray 2024.9.0</li>
+  <li>cartopy 0.24.0</li>
+  <li>pandas 2.2.3</li>
+  <li>geopandas 1.0.1</li>
 </ul>
 
 
-The netcdf and pickle files for "Example Data" and "Table Data" are available at https://bit.ly/37KcVgA
+The netcdf and pickle files for "Example Data" and "Table Data" are available <a href=https://nimbus.niu.edu/ncc20/>here</a>
 
 
-If using data, results, or techniques from this paper, please cite the following:
+If using data, results, or techniques from this paper, please cite the following: 
 
 ```
 Ashley, W.S., Haberlie, A.M. & Gensini, V.A. Reduced frequency and 
@@ -33,8 +33,7 @@ Clim. Chang. (2020). https://doi.org/10.1038/s41558-020-0774-4.
 
 
 <p float="left">
-  <img src="/Pictures/Northern_Illinois_University_logo.jpg" width="250" /> 
-  <img src="/Pictures/LSU_FullName_Purple_RGB.jpg" width="200" />
+  <img src="Pictures/Northern_Illinois_University_logo.jpg" width="250" /> 
 </p>
 
 
